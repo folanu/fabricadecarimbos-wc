@@ -3,9 +3,9 @@
 <section class="hero-home">
     <div class="hero-content">
 
-        <img class="heart-hero" src="<?php bloginfo('template_url') ?>/img/heart-hero.svg" alt="fabricadecarimbos.com.br" />
-        <p>Mulheres incríveis nunca saem de moda</p>
-        <img class="amor-hero" src="<?php bloginfo('template_url') ?>/img/amor-hr.svg" alt="fabricadecarimbos.com.br" />
+        <img class="heart-hero" src="<?php bloginfo('template_url') ?>/img/logo-white.svg" alt="fabricadecarimbos.com.br" />
+        <p>Carimbos personalizados<br /> para negócios criativos</p>
+        <!-- <img class="amor-hero" src="<?php bloginfo('template_url') ?>/img/amor-hr.svg" alt="fabricadecarimbos.com.br" /> -->
 
         <a href="<?php bloginfo('home') ?>/loja">Ver produtos -></a>
 
